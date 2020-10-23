@@ -1,13 +1,14 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <!-- Actual text -->
 
-You can find me on [![YouTube][1.2]][1] or on [![LinkedIn][2.2]][2].
+You can find me on [![YouTube][1.2]][1] or on [![LinkedIn][2.2]][2] or on [3].
 
 [1.2]: https://cdn.emojidex.com/emoji/hdpi/YouTube.png
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 [1]: https://youtube.com/dkchannelgaming
 [2]: https://www.linkedin.com/in/dw2kim/
+[3]: https://www.daewonkim.ca/
 
 <!--
 **dw2kim/dw2kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
