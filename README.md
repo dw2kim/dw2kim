@@ -12,7 +12,7 @@ I am a mobile engineer and blogger who loves challenging to myself physically an
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 [3.2]: https://cdn.emojidex.com/emoji/px16/Minecraft_dirt.png
 
-[1]: https://youtube.com/dkchannelgaming
+[1]: https://youtube.com/dkchannelgaming?sub_confirmation=1
 [2]: https://www.linkedin.com/in/dw2kim/
 [3]: https://www.daewonkim.ca/
 
