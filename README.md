@@ -1,6 +1,6 @@
 ### Hi, I'm Dae Won&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24">
 
-I am a mobile engineer and vlogger.<br/>
+I am a <strong>mobile engineer</strong> and vlogger.<br/>
 I love creating an exciting mobile apps and videos!
 
 #### More about me:
