@@ -3,8 +3,6 @@
 I am a mobile engineer and vlogger.<br/>
 I love challenging to myself physically and mentally!
 
-<br/>
-
 #### More about me:
 
 <a href="https://youtube.com/dkchannelgaming?sub_confirmation=1" target="_blank">
