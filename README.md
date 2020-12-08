@@ -8,9 +8,9 @@ I love creating an exciting <strong>mobile apps</strong> and <strong>videos</str
 <a href="https://youtube.com/dkchannelgaming?sub_confirmation=1" target="_blank">
   <img src="https://www.flaticon.com/svg/static/icons/svg/187/187209.svg" width="30" height="30">
 </a>
-
-<a href="https://www.linkedin.com/in/dw2kim/" target="_blank">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" width="30" height="30">
+&nbsp;
+<a href="https://www.linkedin.com/in/dw2kim/" target="_blank" >
+  <img src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" width="30" height="30" >
 </a>
 
 <a href="https://www.daewonkim.ca/" target="_blank">
