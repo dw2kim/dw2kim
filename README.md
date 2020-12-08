@@ -12,12 +12,11 @@ I love creating an exciting <strong>mobile apps</strong> and <strong>videos</str
 <a href="https://www.linkedin.com/in/dw2kim/" target="_blank" >
   <img src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" width="30" height="30" >
 </a>
-
+&nbsp;
 <a href="https://www.daewonkim.ca/" target="_blank">
   <img src="https://www.flaticon.com/svg/static/icons/svg/3681/3681921.svg" width="30" height="30">
 </a>
-
-
+&nbsp;
 <a href="https://www.daewonstudio.com/" target="_blank">
   <img src="https://www.flaticon.com/svg/static/icons/svg/3616/3616049.svg" width="30" height="30">
 </a>
