@@ -21,4 +21,7 @@ I love creating an exciting <strong>mobile apps</strong> and <strong>videos</str
   <img src="https://www.flaticon.com/svg/static/icons/svg/3616/3616049.svg" width="30" height="30">
 </a>
 
+<a href="https://www.dw2kim.medium.com/" target="_blank">
+  <img src="https://www.flaticon.com/premium-icon/icons/svg/3670/3670098.svg" width="30" height="30">
+</a>
 
