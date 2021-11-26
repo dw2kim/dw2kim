@@ -5,20 +5,20 @@ I love creating an exciting <strong>mobile apps</strong> and <strong>videos</str
 
 #### More about me:
 
-<a href="https://youtube.com/dkchannelgaming?sub_confirmation=1" target="_blank">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/187/187209.svg" width="30" height="30">
+<a href="https://youtube.com/daewontech?sub_confirmation=1" target="_blank">
+  <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-512.png" width="30" height="30">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/dw2kim/" target="_blank" >
-  <img src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" width="30" height="30" >
+  <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="30" height="30" >
 </a>
 &nbsp;
 <a href="https://www.daewonkim.ca/" target="_blank">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/3681/3681921.svg" width="30" height="30">
+  <img src="https://cdn-icons.flaticon.com/png/512/4140/premium/4140037.png?token=exp=1637892051~hmac=a6485ce5d5a8d1a955d4646c51b1574a" width="30" height="30">
 </a>
 &nbsp;
 <a href="https://www.daewonstudio.com/" target="_blank">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/3616/3616049.svg" width="30" height="30">
+  <img src="https://cdn-icons-png.flaticon.com/512/831/831276.png" width="30" height="30">
 </a>
 
 <a href="https://dw2kim.medium.com/" target="_blank">
