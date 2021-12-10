@@ -14,7 +14,7 @@ I love creating an exciting <strong>mobile apps</strong> and <strong>videos</str
 </a>
 &nbsp;
 <a href="https://www.daewonkim.ca/" target="_blank">
-  <img src="https://cdn-icons.flaticon.com/png/512/4140/premium/4140037.png?token=exp=1637892051~hmac=a6485ce5d5a8d1a955d4646c51b1574a" width="30" height="30">
+  <img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="30" height="30">
 </a>
 &nbsp;
 <a href="https://www.daewonstudio.com/" target="_blank">
