@@ -1,6 +1,6 @@
 ### Hi, I'm Daewon&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24">
 
-I am a <strong>mobile engineer</strong> and have a <strong>YouTube Channel</strong>.<br/>
+I am a <strong>mobile engineer</strong> and have a <a href="https://youtube.com/daewontech?sub_confirmation=1" target="_blank"><strong>YouTube Channel</strong></a>.<br/>
 
 #### Check More about me:
 
