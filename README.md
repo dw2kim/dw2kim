@@ -1,9 +1,8 @@
 ### Hi, I'm Daewon&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24">
 
 I am a <strong>mobile engineer</strong> and has a <strong>YouTube Channel</strong>.<br/>
-I love creating an exciting <strong>mobile apps</strong> and <strong>videos</strong>!
 
-#### More about me:
+#### Check More about me:
 
 <a href="https://youtube.com/daewontech?sub_confirmation=1" target="_blank">
   <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-512.png" width="30" height="30">
