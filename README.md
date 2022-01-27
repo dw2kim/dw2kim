@@ -24,3 +24,4 @@ I am a <a href="https://www.daewonkim.ca/" target="_blank"><strong>mobile engine
   <img src="https://www.flaticon.com/premium-icon/icons/svg/3670/3670098.svg" width="30" height="30">
 </a>
 
+![Metrics](/github-metrics.svg)
