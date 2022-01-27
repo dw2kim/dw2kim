@@ -12,14 +12,10 @@ I am a <a href="https://www.daewonstudio.com/" target="_blank"><strong>Mobile En
   <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="30" height="30" >
 </a>
 &nbsp;
-<a href="https://www.daewonkim.ca/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="30" height="30">
-</a>
-&nbsp;
 <a href="https://www.daewonstudio.com/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/831/831276.png" width="30" height="30">
 </a>
-
+&nbsp;
 <a href="https://dw2kim.medium.com/" target="_blank">
   <img src="https://www.flaticon.com/premium-icon/icons/svg/3670/3670098.svg" width="30" height="30">
 </a>
