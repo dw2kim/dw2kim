@@ -17,7 +17,7 @@ I am a <a href="https://www.daewonstudio.com/" target="_blank"><strong>Mobile En
 </a>
 &nbsp;
 <a href="https://dw2kim.medium.com/" target="_blank">
-  <img src="https://www.flaticon.com/premium-icon/icons/svg/3670/3670098.svg" width="30" height="30">
+  <img src="https://cdn-icons-png.flaticon.com/512/2504/2504925.png" width="30" height="30">
 </a>
 
 <p/>
